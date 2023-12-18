@@ -1,0 +1,1 @@
+from .wzcrypto import WzKey, WzIv
